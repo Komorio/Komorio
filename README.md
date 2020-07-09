@@ -1,16 +1,15 @@
 # Komorio (Jeon Sehun)
 
-<!--
-**Komorio/Komorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## High School
 
-Here are some ideas to get you started:
+### 🎓 Hansei Cyber Security HighSchool
+### ⚙️ Game class 3rd grade Mobile Game Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Company
+
+### 🏢 (C) Natris
+
+<br>
+
+### 🧩 Major : Unity 2D/3D Game Programming
+### 💬 Contact : business.komorio@gmail.com
