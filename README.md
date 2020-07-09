@@ -1,5 +1,9 @@
 # Komorio (Jeon Sehun)
 
+## Major
+
+### 🧩 Unity 2D/3D Game Programming
+
 ## High School
 
 ### 🎓 Hansei Cyber Security HighSchool
@@ -9,7 +13,7 @@
 
 ### 🏢 (C) Natris
 
-<br>
+## 💬 Contact 
 
-### 🧩 Major : Unity 2D/3D Game Programming
-### 💬 Contact : business.komorio@gmail.com
+### business.komorio@gmail.com 
+### twilivez@gmail.com
