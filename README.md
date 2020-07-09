@@ -15,5 +15,5 @@
 
 ## 💬 Contact 
 
-### business.komorio@gmail.com 
-### twilivez@gmail.com
+### 📩 business.komorio@gmail.com 
+### 📩 twilivez@gmail.com
