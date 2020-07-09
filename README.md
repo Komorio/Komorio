@@ -6,7 +6,7 @@
 
 ## High School
 
-### 🎓 Hansei Cyber Security HighSchool
+### 🎓 Hansei Cyber Security High School
 ### ⚙️ Game class 3rd grade Mobile Game Programmer
 
 ## Company
