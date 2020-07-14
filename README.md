@@ -43,3 +43,7 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 
 - 📘 Facebook : https://www.facebook.com/twilivez/
 - 📨 Email : business.komorio@gmail.com 
+
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKomorio%2FKomorio)](https://hits.seeyoufarm.com)
