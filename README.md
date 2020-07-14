@@ -31,7 +31,7 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 <br>
 
 - Develop **GIGDC & KWC** [**MouseBeat**](https://www.youtube.com/watch?v=tiD9GnTAGak) as a main programmer in 2020
-- Develop **GIGDC & KWC** [**Galactica**](https://github.com/Komorio/Galactica) as a main programmer in 2020
+- Develop **KWC** [**Galactica**](https://github.com/Komorio/Galactica) as a main programmer in 2020
 - Develop [BossFight Ultimate](https://www.youtube.com/watch?v=bvspgqr8Y0A) as a main programmer in 2020
 
 
