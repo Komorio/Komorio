@@ -17,6 +17,8 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 - 🏫 Hansei Cyber Security High School
 - ⚙️ Game class 3rd grade Mobile Game Programmer
 
+- 📚 Netmarble Game Academy a third-term student
+
 ### 🌙 My Project
 
 - Administrator at [Hasei Cyber Security High School - LevelUp!!](https://www.facebook.com/hglevelup) in 2019, 2020
