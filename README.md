@@ -40,6 +40,7 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 ### 🔭 I'm currently working on...
 
 - 🏢 Natris Corporation since Sep 2020 
+- 📚 Game outsourcing team Empty Catch since Apr 2020
 
 ### 💬 Contact 
 
