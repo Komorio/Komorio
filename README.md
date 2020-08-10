@@ -19,6 +19,12 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 
 - 📚 Netmarble Game Academy a third-term student
 
+### 🔭 I'm currently working on...
+
+- 🏢 Natris Corporation since Sep 2020 
+- 📚 Game outsourcing team Empty Catch since Apr 2020
+
+
 ### 🌙 My Project
 
 - Administrator at [Hasei Cyber Security High School - LevelUp!!](https://www.facebook.com/hglevelup) in 2019, 2020
@@ -35,12 +41,6 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 - Develop **GIGDC & KWC** [**MouseBeat**](https://www.youtube.com/watch?v=tiD9GnTAGak) as a main programmer in 2020
 - Develop **KWC** [**Galactica**](https://github.com/Komorio/Galactica) as a main programmer in 2020
 - Develop [BossFight Ultimate](https://www.youtube.com/watch?v=bvspgqr8Y0A) as a main programmer in 2020
-
-
-### 🔭 I'm currently working on...
-
-- 🏢 Natris Corporation since Sep 2020 
-- 📚 Game outsourcing team Empty Catch since Apr 2020
 
 ### 💬 Contact 
 
