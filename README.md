@@ -46,6 +46,7 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 
 - 📘 Facebook : https://www.facebook.com/twilivez/
 - 📨 Email : business.komorio@gmail.com 
+- 📚 Velog : https://velog.io/@dev_komorio
 
 <br>
 
