@@ -9,8 +9,9 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 
 - Modern C# (C# 8.0)
 - UnityEngine (C# 7.0)
-- Dart, Go, TypeScript, Python
-- Flutter
+- Node Js & TypeScript
+- Flutter & Dart
+- Modern Go
 
 ### 🎓 My academic background
 
