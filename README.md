@@ -33,8 +33,9 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 
 <br>
 
-- Develop **STA+C 2019** [**Flat : Cube & Color**](https://play.google.com/store/apps/details?id=com.Idiots.Flat) as a main programmer in 2019
-- Develop **STA+C 2020** [**XStep**](https://www.youtube.com/watch?v=t4L70bzVTDk) as a client programmer in 2020
+- Develop **STA+C 2019** [**Flat : Cube & Color**](https://play.google.com/store/apps/details?id=com.Idiots.Flat) as a main programmer in 2019 ( **우수상** )
+- Develop **STA+C 2020** **Cursor-Dash** as a client programmer in 2020 ( **우수상** )
+- Develop **STA+C 2020** [**XStep**](https://www.youtube.com/watch?v=t4L70bzVTDk) as a client programmer in 2020 ( **중소기업벤처장관상 및 대상** )
 
 <br>
 
