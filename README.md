@@ -11,7 +11,6 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 - UnityEngine (C# 7.0)
 - Node Js & TypeScript
 - Flutter & Dart
-- Modern Go
 
 ### 🎓 My academic background
 
