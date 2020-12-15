@@ -7,8 +7,8 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 
 ### 🌱 I’m currently learning
 
-- Modern C# (C# 8.0)
-- UnityEngine (C# 7.0)
+- Modern C# (C# 9.0)
+- UnityEngine (C# 8.0)
 - Node Js & TypeScript
 - Flutter & Dart
 
