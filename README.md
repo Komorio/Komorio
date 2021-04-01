@@ -21,7 +21,7 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 
 - 🏢 **Natris Corporation** 아이러브커피N Team since Sep 2020
 - 📚 Game outsourcing team Empty Catch since Apr 2020
-- ⚙️ Indie Game team **[Hold On]**(https://www.facebook.com/HoldOnSNS/) Programmer since Mar 2021
+- ⚙️ Indie Game team **[Hold On](https://www.facebook.com/HoldOnSNS/)** Programmer since Mar 2021
 
 ### 🌙 My Project
 
