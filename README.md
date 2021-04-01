@@ -15,15 +15,13 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 ### 🎓 My academic background
 
 - 🏫 Hansei Cyber Security High School
-- ⚙️ Game class 3rd grade Mobile Game Programmer
-
 - 📚 Netmarble Game Academy a third-term student
 
 ### 🔭 I'm currently working on...
 
-- 🏢 Natris Corporation 아이러브커피N Team since Sep 2020
+- 🏢 **Natris Corporation** 아이러브커피N Team since Sep 2020
 - 📚 Game outsourcing team Empty Catch since Apr 2020
-
+- ⚙️ Indie Game team **[Hold On]**(https://www.facebook.com/HoldOnSNS/) Programmer since Mar 2021
 
 ### 🌙 My Project
 
@@ -48,6 +46,8 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 - 📚 Velog : https://velog.io/@dev_komorio
 
 <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komorio)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKomorio%2FKomorio)](https://hits.seeyoufarm.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/twilivez/)](https://www.facebook.com/twilivez/)
