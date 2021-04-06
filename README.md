@@ -1,4 +1,6 @@
 ### @Komorio(Jeon Sehun) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komorio)](https://github.com/anuraghazra/github-readme-stats)
+
 Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 
 ### 🌳 Major
@@ -11,6 +13,8 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 - UnityEngine (C# 8.0)
 - Node Js & TypeScript
 - Flutter & Dart
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komorio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎓 My academic background
 
@@ -46,8 +50,6 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 - 📚 Velog : https://velog.io/@dev_komorio
 
 <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komorio)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKomorio%2FKomorio)](https://hits.seeyoufarm.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/twilivez/)](https://www.facebook.com/twilivez/)
