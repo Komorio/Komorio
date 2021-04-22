@@ -2,7 +2,9 @@
 
 Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komorio)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komorio&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komorio&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komorio&theme=dark)](https://git.io/streak-stats)
 
 ### 🌳 Major
 
@@ -14,8 +16,6 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 - UnityEngine (C# 8.0)
 - Node Js & TypeScript
 - Flutter & Dart
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komorio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎓 My academic background
 
