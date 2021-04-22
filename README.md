@@ -6,9 +6,12 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komorio&theme=dark)](https://git.io/streak-stats)
 
-### 🌳 Major
+### 🔭 I'm currently working on...
 
-* 🧩 Unity Mobile Game Programming
+- 🏢 **Natris Corporation** 아이러브커피N Team since Sep 2020
+- 📚 Game outsourcing team Empty Catch since Apr 2020
+- ⚙️ Indie Game team **[Hold On](https://www.facebook.com/HoldOnSNS/)** Programmer since Mar 2021
+
 
 ### 🌱 I’m currently learning
 
@@ -20,13 +23,6 @@ Hi 🐹‼️ Welecome to my GitHub Profile 🤗‼️
 ### 🎓 My academic background
 
 - 🏫 Hansei Cyber Security High School
-- 📚 Netmarble Game Academy a third-term student
-
-### 🔭 I'm currently working on...
-
-- 🏢 **Natris Corporation** 아이러브커피N Team since Sep 2020
-- 📚 Game outsourcing team Empty Catch since Apr 2020
-- ⚙️ Indie Game team **[Hold On](https://www.facebook.com/HoldOnSNS/)** Programmer since Mar 2021
 
 ### 🌙 My Project
 
