@@ -17,7 +17,7 @@
 - 📚 Game outsourcing team Empty Catch since Apr 2020 
 - ⚙️ Indie Game team **[Hold On](https://www.facebook.com/HoldOnSNS/)** Programmer since Mar 2021
 
-- 🏫 Gradudted from Hansei Cyber Security High School in 2021
+- 🏫 Graduated from Hansei Cyber Security High School in 2021
 
 ---
 
